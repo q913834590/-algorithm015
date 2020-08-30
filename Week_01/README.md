@@ -24,7 +24,7 @@
    * O(n^3): N cubic Complexity 立方
    * O(2^n): Exponential Growth 指数
    * O(n!): Factoria丨阶乘
-##重点掌握解题技巧：
+###重点掌握解题技巧：
 1.双指针法
 
 2.两端夹逼法
